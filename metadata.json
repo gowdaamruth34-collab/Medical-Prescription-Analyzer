@@ -1,0 +1,7 @@
+{
+  "name": "MediSimplify — Medical Prescription Simplifier",
+  "description": "Understand your prescription. Take your medicines with confidence.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
